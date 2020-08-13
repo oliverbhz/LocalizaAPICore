@@ -17,3 +17,10 @@ b.	Escalabilidade
 c.	Disponibilidade 
 d.	Resiliência 
 e.	Robustez 
+
+#######################################################################################################################################################################
+# Teste da API
+
+Postman: 
+    Method: GET
+    URL: https://localhost:<port>/api/decomposenumber/<value>
